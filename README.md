@@ -1,5 +1,5 @@
 # TheClaw
-While this was a group project all uploads to this repo will be from me as I will be building the repo from my personal files
+While this was a group project all uploads to this repo will be from me as I will be building the repo from records in my personal files
 
 A continuation of  project from my Computer Engineering Technology Capstone (Microprocessor Integration). 
 -----------------------------------------------------------------------------------------------------------------------------------
